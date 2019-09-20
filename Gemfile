@@ -11,7 +11,7 @@ gem 'pundit', '~> 2.0.0'
 gem 'pg', '0.21.0'
 gem 'hstore_translate'
 gem 'dalli'
-gem 'devise', '~> 4.5.0'
+gem 'devise', ">= 4.7.1"
 gem "http_accept_language", '~> 2.1.1'
 gem 'unicorn'
 gem 'kaminari', '~> 1.1.1'
